@@ -223,7 +223,7 @@ console.log("Let's build amazing things! 💪");
 - [ ] 👥 Growing DDSC Community
 
 **Completed:**
-- [x] MERN Stack Mastery
+- [x] MERN Stack 
 - [x] Technical Leadership
 - [x] Multiple Projects
 - [x] Certifications

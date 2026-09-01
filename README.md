@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Stack+Dev.;Let's+Build+Something+Amazing" alt="Terminal Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Stack+Expert;Let's+Build+Something+Amazing" alt="Terminal Header" />
   </h1>
 </div>
 
@@ -15,9 +15,7 @@
 ⚡ **Specialization**: MERN Stack, DSA, Web Projects  
 📫 **Reach me**: ar4868904@gmail.com  
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Profile+Views&color=0e75b6" alt="Profile Views">
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Profile+Views&color=0e75b6)
 
 ---
 
@@ -59,45 +57,30 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
 **🔥 Quick Stats:**
 
-![GitHub followers](https://img.shields.io/github/followers/Arsk86shaikh?style=social&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/Arsk86shaikh?style=social&label=Stars)
-![Profile Views](https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Profile+Views&color=0e75b6)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/Arsk86shaikh?style=social&label=Followers)](https://github.com/Arsk86shaikh)
+[![GitHub stars](https://img.shields.io/github/stars/Arsk86shaikh?style=social&label=Stars)](https://github.com/Arsk86shaikh)
 
 ---
 
-## 🏆 GitHub Stats Cards
+## 📈 GitHub Stats Cards
 
-<div align="center">
+<a href="https://github.com/Arsk86shaikh">
+  <img alt="Raheman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
 
-**📈 GitHub Overview:**
+<a href="https://github.com/Arsk86shaikh">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsk86shaikh&layout=compact&theme=tokyonight" />
+</a>
 
-![Raheman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
-
-**💻 Top Languages:**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsk86shaikh&layout=compact&theme=tokyonight&hide_border=false)
-
-**⚡ GitHub Streak:**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Arsk86shaikh&theme=tokyonight)
-
-**🏅 GitHub Trophies:**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arsk86shaikh&theme=tokyonight&no-frame=false&margin-w=4&row=1)
-
-</div>
+<a href="https://github.com/Arsk86shaikh">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Arsk86shaikh&theme=tokyonight" />
+</a>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
@@ -106,13 +89,9 @@
 | **🌐 Portfolio** | Responsive Personal Portfolio | HTML5, CSS3, JavaScript, Node.js |
 | **📝 Blog Platform** | Dynamic Blogging System | EJS, Node.js, Express, JavaScript |
 
-</div>
-
 ---
 
 ## 🎯 Technical Skills Breakdown
-
-<div align="center">
 
 ```
 📊 Technology Proficiency:
@@ -128,13 +107,9 @@
 └─────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
 ## 🏆 Professional Journey
-
-<div align="center">
 
 ```
 🎉 CAREER TIMELINE
@@ -158,13 +133,9 @@
       └── 👥 Mentoring Developers
 ```
 
-</div>
-
 ---
 
 ## 🎓 Education & Certifications
-
-<div align="center">
 
 ### 🏫 Education
 - **B.Tech CSE** - Shri Shivaji Institute (2022-2026)
@@ -178,13 +149,9 @@
 - ✅ AWS Cloud Services
 - ✅ NxtWave Programming
 
-</div>
-
 ---
 
 ## 💻 Development Environment
-
-<div align="center">
 
 **My Workspace Setup:**
 - 💻 **OS**: Windows 11 / Ubuntu 22.04
@@ -203,8 +170,6 @@
 ├── Thunder Client
 └── Tailwind CSS IntelliSense
 ```
-
-</div>
 
 ---
 
@@ -236,8 +201,6 @@ console.log("Let's build amazing things! 💪");
 
 ## 📞 Connect With Me
 
-<div align="center">
-
 ### Let's Collaborate! 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ab-raheman-shaikh)
@@ -248,13 +211,9 @@ console.log("Let's build amazing things! 💪");
 **📍 Location:** Parbhani, Maharashtra, India  
 **📞 Phone:** +91 8624909682
 
-</div>
-
 ---
 
 ## 🚀 Current Goals
-
-<div align="center">
 
 **What's Next:**
 - [ ] 🔥 AI-Integrated Web Projects
@@ -269,8 +228,6 @@ console.log("Let's build amazing things! 💪");
 - [x] Multiple Projects
 - [x] Certifications
 - [x] Mentoring Program
-
-</div>
 
 ---
 
@@ -292,8 +249,6 @@ console.log("Let's build amazing things! 💪");
 
 ---
 
-<div align="center">
-
 ### 💫 *"Code is poetry written for machines, but read by humans."*
 
 **🎊 Thanks for visiting! Let's create magic together! 🚀**
@@ -303,5 +258,3 @@ console.log("Let's build amazing things! 💪");
 **🌟 Made with ❤️ and ☕ by [Ab Raheman Shaikh](https://github.com/Arsk86shaikh)**
 
 *Last Updated: 2025 | Always Learning, Always Growing 📈*
-
-</div>

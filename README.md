@@ -1,37 +1,28 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&height=120&lines=%24+whoami;%3E+syed_saad;%24+cat+role;%3E+fullstack_dev;%3E+mern_specialist;%24+echo+ready;%3E+Let%27s+code%21+%F0%9F%9A%80" 
-         alt="Terminal Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Stack+Expert;Let's+Build+Something+Amazing" alt="Terminal Header" />
   </h1>
 </div>
+
 ---
 
 ## 🌟 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" style="pointer-events: none;" draggable="false">
 
-🌱 **Passionate Developer** from Maharashtra, India  
-🎓 **B.Tech Computer Engineering** Student  
-🚀 **Vice President** @ Decode Developer Students Club (DDSC)  
-💻 Building **useful, responsive & real-world** web applications  
-⚡ **Fun fact**: Dark mode is always my first choice!  
-📫 **Reach me**: saadsyed33922@gmail.com  
-
+🌱 **Full Stack Developer** from Parbhani, Maharashtra, India  
+🎓 **B.Tech Computer Science & Engineering** Student (Final Year)  
+🚀 **Technical Team Lead** @ DCODE Club (DDSC)  
+💻 Building **scalable, responsive & innovative** web applications  
+⚡ **Specialization**: MERN Stack, DSA, Web Projects  
+📫 **Reach me**: ar4868904@gmail.com  
 
 <!-- Interactive Profile Views Counter -->
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Saadsyed07&style=for-the-badge&color=blueviolet" alt="Profile Views" style="pointer-events: none;" draggable="false">
+  <img src="https://komarev.com/ghpvc/?username=Arsk86shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views" style="pointer-events: none;" draggable="false">
 </div>
 
 <br clear="right"/>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="pointer-events: none;" draggable="false">
-
-</div>
 
 ---
 
@@ -45,53 +36,49 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚡ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools & Deployment
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### 📚 Other Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
 ---
 
-## 🌍 Visitor Insights & Live Stats
+## 🌍 Live GitHub Stats
 
 <div align="center">
   
-**🔥 Live GitHub Stats:**
+**🔥 GitHub Statistics:**
   
-[![GitHub followers](https://img.shields.io/github/followers/Saadsyed07?style=social)](https://github.com/Saadsyed07)
-[![GitHub stars](https://img.shields.io/github/stars/Saadsyed07?style=social)](https://github.com/Saadsyed07)
-[![GitHub watchers](https://img.shields.io/github/watchers/Saadsyed07/Saadsyed07?style=social)](https://github.com/Saadsyed07)
+[![GitHub followers](https://img.shields.io/github/followers/Arsk86shaikh?style=social)](https://github.com/Arsk86shaikh)
+[![GitHub stars](https://img.shields.io/github/stars/Arsk86shaikh?style=social)](https://github.com/Arsk86shaikh)
 
-**📊 Dynamic Counters:**
+**📊 Profile Metrics:**
 
-![Total Views](https://komarev.com/ghpvc/?username=Saadsyed07&label=Total+Profile+Views&style=flat-square&color=red)
-![Weekly Visitors](https://komarev.com/ghpvc/?username=Saadsyed07&label=This+Week&style=flat-square&color=green)
-![Monthly Hits](https://komarev.com/ghpvc/?username=Saadsyed07&label=This+Month&style=flat-square&color=blue)
----
+![Total Views](https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Total+Profile+Views&style=flat-square&color=red)
 
+### 🏆 GitHub Achievements
 
-
-### 🎭 Daily Dev Quote Generator
-  
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-
-### 🏆 Achievement Unlock System
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Saadsyed07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Arsk86shaikh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -105,36 +92,28 @@
 <tr>
 <td width="50%">
 
-### 🔸 Coderoom - Online Code Editor
-*A powerful front-end code editor with live preview*
+### 📚 BookNoteHub
+*Full Stack Book Tracking Application*
 
-**Features:**
-- 🎨 HTML, CSS & JS support
-- 📱 Live preview
-- 💾 Project saving
-- 🌙 Dark mode
+**Tech Stack:**
+- React.js & TailwindCSS
+- Node.js & Express.js
+- MongoDB/PostgreSQL
 
-**[🌐 Live Demo](https://coderoom-seven.vercel.app/) | [📂 GitHub](https://github.com/Saadsyed07/Coderoom)**
-
-![Stars](https://img.shields.io/github/stars/Saadsyed07/Coderoom?style=social)
-![Forks](https://img.shields.io/github/forks/Saadsyed07/Coderoom?style=social)
+**[🔗 GitHub](https://github.com/Arsk86shaikh/BookNoteHub)**
 
 </td>
 <td width="50%">
 
-### 🔸 Blogify - Full Stack Blog
-*Complete blog platform with modern features*
+### 💻 DeCodeX
+*AI-Powered Coding Platform*
 
-**Features:**
-- ✍️ Create & Edit blogs
-- 📝 Markdown support
-- 🔐 Secure authentication
-- 🌓 Dark/Light mode
+**Tech Stack:**
+- React.js & TailwindCSS
+- Node.js & Express.js
+- OpenRouter APIs
 
-**[🌐 Live Demo](https://blogify-red-pi.vercel.app/) | [📂 GitHub](https://github.com/Saadsyed07/blogify)**
-
-![Stars](https://img.shields.io/github/stars/Saadsyed07/blogify?style=social)
-![Forks](https://img.shields.io/github/forks/Saadsyed07/blogify?style=social)
+**[🔗 GitHub](https://github.com/Arsk86shaikh/DeCodeX)**
 
 </td>
 </tr>
@@ -142,24 +121,30 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
-### 🔸 Result Portal - Student Management System
-*Academic result management platform for students and admins*
+### 🌐 Portfolio Website
+*Responsive Personal Portfolio*
 
+**Tech Stack:**
+- HTML5, CSS3, JavaScript
+- EJS, Node.js
+- Responsive Design
 
+**[🔗 GitHub](https://github.com/Arsk86shaikh/Portfolio)**
 
-**Features:**
-- 🎓 Student Dashboard
-- 👨‍💼 Admin Panel
-- 📊 Result Analytics
-- 📱 Responsive Design
+</td>
+<td width="50%">
 
-**[🌐 Live Demo](https://result-portal-eta.vercel.app/) | [📂 GitHub](https://github.com/Saadsyed07/Result-Portal)**
+### 📝 Blog Platform
+*Dynamic Blogging Platform*
 
-![Stars](https://img.shields.io/github/stars/Saadsyed07/Result-Portal?style=social)
-![Forks](https://img.shields.io/github/forks/Saadsyed07/Result-Portal?style=social)
-![Issues](https://img.shields.io/github/issues/Saadsyed07/Result-Portal?style=social)
+**Tech Stack:**
+- EJS Templating
+- JavaScript & Node.js
+- Express.js
+
+**[🔗 GitHub](https://github.com/Arsk86shaikh/BlogPlatform)**
 
 </td>
 </tr>
@@ -169,62 +154,89 @@
 
 ---
 
-## 📊 GitHub Analytics & Real-time Stats
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saadsyed07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="pointer-events: none;" draggable="false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadsyed07&layout=compact&langs_count=8&theme=tokyonight" style="pointer-events: none;" draggable="false"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadsyed07&theme=tokyonight" alt="GitHub Streak" style="pointer-events: none;" draggable="false">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsk86shaikh&layout=compact&langs_count=8&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arsk86shaikh&theme=tokyonight)
+
 </div>
 
 ---
 
-## 🎯 Coding Activity & WakaTime Stats
+## 🎯 Coding Skills Breakdown
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadsyed07&theme=tokyo-night&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" alt="GitHub Activity Graph" style="pointer-events: none;" draggable="false">
-</div>
 
-**⏱️ Coding Time Tracker:**
 ```
-📊 This Week's Coding Stats:
-┌─────────────────────────┐
-│ JavaScript   ████████░░ 80% │
-│ React        ███████░░░ 70% │
-│ Node.js      ██████░░░░ 60% │
-│ CSS          █████░░░░░ 50% │
-│ HTML         ████░░░░░░ 40% │
-└─────────────────────────┘
+📊 Technology Proficiency:
+┌─────────────────────────────────┐
+│ React.js         ██████████ 95% │
+│ Node.js/Express  █████████░ 90% │
+│ JavaScript/ES6+  ██████████ 95% │
+│ MongoDB          ████████░░ 85% │
+│ TailwindCSS      █████████░ 90% │
+│ PostgreSQL       ████████░░ 85% │
+│ TypeScript       ███████░░░ 75% │
+│ Python           ██████░░░░ 60% │
+└─────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
-## 🏆 Achievements & Journey
+## 🏆 Professional Journey
 
 <div align="center">
 
 ```
-🎉 DEVELOPER JOURNEY TIMELINE
-════════════════════════════════════
+🎉 CAREER TIMELINE
+═══════════════════════════════════════════
 
-2023  📚 HTML, CSS & JavaScript Fundamentals
+2022  📚 B.Tech CSE - Final Year
+      └── Shri Shivaji Institute of Engineering
+      
+2023  🌱 Learning MERN Stack
+      ├── HTML5, CSS3, JavaScript Fundamentals
       └── Built first responsive websites
 
 2024  ⚛️ MERN Stack Mastery
-      ├── React.js & Node.js projects
-      ├── Database integration (MongoDB/PostgreSQL)
-      └── Full-stack application development
+      ├── React.js & Node.js expertise
+      ├── MongoDB & PostgreSQL integration
+      ├── Full-stack application development
+      └── Technical Certifications
 
 2025  🚀 Leadership & Innovation
-      ├── 🎖️ Vice President @ DDSC
-      ├── 🌟 Launched 3 major projects
-      ├── 📈 1000+ GitHub contributions
+      ├── 🎖️ Technical Team Lead @ DDSC
+      ├── 💼 Multiple full-stack projects
+      ├── 📈 Contributing to open-source
       └── 👥 Mentoring junior developers
 ```
 
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+### 🏫 Education
+- **B.Tech Computer Science & Engineering** - Shri Shivaji Institute (2022-2026)
+- **HSC Science (Informatics Practices)** - Dnyanopasak College (2020-2022)
+- **SSC General Education** - Mahatma Fule Vidyalaya (Completed 2020)
+
+### 🏅 Professional Certifications
+- ✅ Full Stack Web Development
+- ✅ Java Industrial Training
+- ✅ Python Programming Course
+- ✅ AWS Cloud Services (Aspire Program)
+- ✅ NxtWave Programming Certification
 
 </div>
 
@@ -236,131 +248,143 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" style="pointer-events: none;" draggable="false">
 
-**My Current Setup:**
+**My Workspace:**
 - 💻 **OS**: Windows 11 / Ubuntu 22.04
-- 📝 **Editor**: VS Code with custom themes
+- 📝 **IDE**: VS Code
 - 🐚 **Terminal**: Windows Terminal / Zsh
-- 🎨 **Design**: Figma for UI/UX mockups
-- ☕ **Fuel**: Coffee ☕ + Lo-fi music 🎵
+- 🎨 **Design**: Figma for prototyping
+- 🔧 **Tools**: Git, GitHub, NPM, Postman, Vercel
 
-**⚙️ VS Code Extensions I Love:**
+**⚙️ VS Code Extensions:**
 ```
-🔧 Essential Extensions:
-├── Prettier - Code formatter
-├── ES7+ React/Redux/React-Native snippets
+✨ Essential Tools:
+├── Prettier (Code Formatter)
+├── ES7+ React Snippets
 ├── Auto Rename Tag
-├── Bracket Pair Colorizer
 ├── GitLens
-└── Thunder Client (Postman alternative)
+├── Thunder Client (API Testing)
+└── Tailwind CSS IntelliSense
 ```
 
 </div>
 
 ---
 
-## 🌟 Fun Developer Facts & Easter Eggs
+## 👨‍💻 About My Work
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="pointer-events: none;" draggable="false">
-
-**🎯 Interactive Code Block:**
+**🎯 My Profile Object:**
 ```javascript
-const saad = {
+const raheman = {
     pronouns: "he/him",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    role: "Technical Team Lead @ DDSC",
+    specializations: [
+        "Full Stack Development (MERN)",
+        "Data Structures & Algorithms",
+        "Web Application Architecture",
+        "Peer Mentoring"
+    ],
     technologies: {
-        frontend: ["React", "Next.js", "Tailwind"],
-        backend: ["Node", "Express", "MongoDB"],
-        devOps: ["Git", "GitHub Actions", "Vercel"],
-        tools: ["VS Code", "Figma", "Postman"]
+        frontend: ["React", "TailwindCSS", "Bootstrap", "JavaScript"],
+        backend: ["Node.js", "Express.js", "REST APIs"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        tools: ["Git", "GitHub", "Vercel", "Netlify", "Postman"]
     },
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    coffeeCount: getCoffeeCount(), // Updates in real-time!
-    currentMood: "🚀 Ready to code!"
+    currentFocus: "Building scalable MERN applications & leading tech initiatives",
+    teamContribution: "Mentoring junior developers, leading projects, peer programming",
+    passion: "Clean code, collaboration, and continuous learning 🚀"
 };
 
-// Easter Egg: Try clicking different sections!
-console.log("Thanks for checking my profile! 🎉");
+console.log("Let's build something amazing together! 💪");
 ```
 
-**🎲 Random Programming Joke:**
-> Why do programmers prefer dark mode? 
-> Because light attracts bugs! 🐛
-
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## 📞 Connect With Me
 
 <div align="center">
 
+### Let's Collaborate! 🤝
 
-
-<a href="https://www.linkedin.com/in/profile-saad-syed">
+<a href="https://linkedin.com/in/ab-raheman-shaikh">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:saadsyed33922@gmail.com">
+<a href="mailto:ar4868904@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://github.com/Saadsyed07">
+<a href="https://github.com/Arsk86shaikh">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+<a href="tel:+918624909682">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
-
-</div>
-
----
-
-## 🚀 What's Next? (Live Updates)
-
-<div align="center">
-
-**🎯 Current Sprint (Updates Weekly):**
-
-- [ ] 🔥 **AI-Powered Project** - Building a smart code reviewer
-- [ ] 📱 **Mobile App** - React Native learning tracker
-- [ ] 🌟 **Open Source** - Contributing to major React libraries  
-- [x] ✅ **Portfolio V2** - Interactive portfolio website
-- [x] ✅ **DDSC Leadership** - Leading tech workshops
-
-
+**📍 Location:** Parbhani, Maharashtra, India - 431401  
+**📞 Phone:** +91 8624909682
 
 </div>
 
 ---
 
+## 🚀 Current Goals & Roadmap
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="pointer-events: none;" draggable="false">
+
+**🎯 What's Next:**
+
+- [ ] 🔥 AI-Integrated Web Projects
+- [ ] 📱 React Native Mobile Development
+- [ ] 🌟 Open Source Contributions
+- [ ] 🏆 Advanced System Design Learning
+- [ ] 👥 Growing DDSC Technical Community
+
+**✅ Completed:**
+- [x] Full Stack MERN Mastery
+- [x] Leadership Role @ DDSC
+- [x] Multiple Production Projects
+- [x] Industry Certifications
+- [x] Peer Mentoring Program
+
 </div>
 
+---
+
+## 💡 Fun Facts
+
 <div align="center">
 
-### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+```
+🎭 DEVELOPER FACTS & EASTER EGGS
+════════════════════════════════════
 
-**🎊 Thanks for visiting! Let's build something amazing together! 🚀**
+💾 I code with: Coffee ☕ + Lo-fi beats 🎵
+🐛 Debug method: Strategic console.log() 😄
+🌙 Dark mode: ALWAYS ON ✔️
+⌨️ Keyboard: Mechanical > Membrane
+📚 Learning style: Build → Learn → Optimize
+🎯 Code philosophy: Clean, Readable, Efficient
 
-**🔥 Fun Stats:**
-- ⭐ **Profile Views**: ![](https://komarev.com/ghpvc/?username=Saadsyed07&color=brightgreen)
-- 🎯 **Repositories**: ![](https://img.shields.io/badge/Dynamic-Repos-blue)
-- ☕ **Coffee Consumed**: ![](https://img.shields.io/badge/Coffee-∞-brown)
-- 🐛 **Bugs Fixed**: ![](https://img.shields.io/badge/Bugs-404--Not--Found-red)
-
-
+🎲 "Why do programmers prefer dark mode?"
+   → Because light attracts bugs! 🐛
+```
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="pointer-events: none;" draggable="false"/>
-</div>
+
+### 💫 *"Code is poetry written for machines, but read by humans."*
+
+**🎊 Thanks for visiting! Let's create amazing things together! 🚀**
 
 ---
 
-**🌟 Made with ❤️ and lots of ☕ by [Syed Saad](https://github.com/Saadsyed07)**
+**🌟 Made with ❤️ and lots of ☕ by [Ab Raheman Shaikh](https://github.com/Arsk86shaikh)**
 
-*Last Updated: Automatically via GitHub Actions ⚡*
+*Last Updated: 2025 | Always Learning, Always Growing 📈*
+
+</div>

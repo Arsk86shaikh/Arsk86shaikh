@@ -1,14 +1,12 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Specialist;Tech+Lead+%40+DDSC" alt="Welcome Banner">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Stack+Expert;Let's+Build+Something+Amazing" alt="Terminal Header" />
   </h1>
 </div>
 
 ---
 
 ## 🌟 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" style="pointer-events: none;" draggable="false">
 
 🌱 **Full Stack Developer** from Parbhani, Maharashtra, India  
 🎓 **B.Tech Computer Science & Engineering** Student (Final Year)  
@@ -17,12 +15,9 @@
 ⚡ **Specialization**: MERN Stack, DSA, Web Projects  
 📫 **Reach me**: ar4868904@gmail.com  
 
-<!-- Interactive Profile Views Counter -->
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Arsk86shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Profile+Views&color=0e75b6" alt="Profile Views">
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -57,25 +52,44 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
 ---
 
-## 🌍 GitHub Statistics & Achievements
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 📊 Quick Stats
-[![GitHub followers](https://img.shields.io/github/followers/Arsk86shaikh?style=social&label=Followers)](https://github.com/Arsk86shaikh)
-[![GitHub stars](https://img.shields.io/github/stars/Arsk86shaikh?style=social&label=Stars)](https://github.com/Arsk86shaikh)
-![Profile Views](https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Profile%20Views&color=0e75b6&style=flat)
+**🔥 Quick Stats:**
 
-### 🏆 GitHub Achievements
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsk86shaikh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophy">
-</a>
+![GitHub followers](https://img.shields.io/github/followers/Arsk86shaikh?style=social&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/Arsk86shaikh?style=social&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Profile+Views&color=0e75b6)
+
+</div>
+
+---
+
+## 🏆 GitHub Stats Cards
+
+<div align="center">
+
+**📈 GitHub Overview:**
+
+![Raheman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
+
+**💻 Top Languages:**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsk86shaikh&layout=compact&theme=tokyonight&hide_border=false)
+
+**⚡ GitHub Streak:**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arsk86shaikh&theme=tokyonight)
+
+**🏅 GitHub Trophies:**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arsk86shaikh&theme=tokyonight&no-frame=false&margin-w=4&row=1)
 
 </div>
 
@@ -85,87 +99,18 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 📚 BookNoteHub
-*Full Stack Book Tracking Application*
-
-**Tech Stack:**
-- React.js & TailwindCSS
-- Node.js & Express.js
-- MongoDB/PostgreSQL
-
-**[🔗 GitHub](https://github.com/Arsk86shaikh/BookNoteHub)**
-
-</td>
-<td width="50%">
-
-### 💻 DeCodeX
-*AI-Powered Coding Platform*
-
-**Tech Stack:**
-- React.js & TailwindCSS
-- Node.js & Express.js
-- OpenRouter APIs
-
-**[🔗 GitHub](https://github.com/Arsk86shaikh/DeCodeX)**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Portfolio Website
-*Responsive Personal Portfolio*
-
-**Tech Stack:**
-- HTML5, CSS3, JavaScript
-- EJS, Node.js
-- Responsive Design
-
-**[🔗 GitHub](https://github.com/Arsk86shaikh/Portfolio)**
-
-</td>
-<td width="50%">
-
-### 📝 Blog Platform
-*Dynamic Blogging Platform*
-
-**Tech Stack:**
-- EJS Templating
-- JavaScript & Node.js
-- Express.js
-
-**[🔗 GitHub](https://github.com/Arsk86shaikh/BlogPlatform)**
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **📚 BookNoteHub** | Full Stack Book Tracking App | React, Node.js, MongoDB, TailwindCSS |
+| **💻 DeCodeX** | AI-Powered Coding Platform | React, Express, OpenRouter, TailwindCSS |
+| **🌐 Portfolio** | Responsive Personal Portfolio | HTML5, CSS3, JavaScript, Node.js |
+| **📝 Blog Platform** | Dynamic Blogging System | EJS, Node.js, Express, JavaScript |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/Arsk86shaikh)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsk86shaikh&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800)](https://github.com/Arsk86shaikh)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arsk86shaikh&theme=tokyonight&cache_seconds=1800)](https://github.com/Arsk86shaikh)
-
-</div>
-
----
-
-## 🎯 Coding Skills Breakdown
+## 🎯 Technical Skills Breakdown
 
 <div align="center">
 
@@ -173,10 +118,10 @@
 📊 Technology Proficiency:
 ┌─────────────────────────────────┐
 │ React.js         ██████████ 95% │
-│ Node.js/Express  █████████░ 90% │
 │ JavaScript/ES6+  ██████████ 95% │
-│ MongoDB          ████████░░ 85% │
+│ Node.js/Express  █████████░ 90% │
 │ TailwindCSS      █████████░ 90% │
+│ MongoDB          ████████░░ 85% │
 │ PostgreSQL       ████████░░ 85% │
 │ TypeScript       ███████░░░ 75% │
 │ Python           ██████░░░░ 60% │
@@ -193,26 +138,24 @@
 
 ```
 🎉 CAREER TIMELINE
-═══════════════════════════════════════════
+═════════════════════════════════════
 
 2022  📚 B.Tech CSE - Final Year
-      └── Shri Shivaji Institute of Engineering
-      
-2023  🌱 Learning MERN Stack
-      ├── HTML5, CSS3, JavaScript Fundamentals
-      └── Built first responsive websites
+      └── Shri Shivaji Institute
+
+2023  🌱 MERN Stack Learning
+      ├── HTML5, CSS3, JavaScript
+      └── First responsive websites
 
 2024  ⚛️ MERN Stack Mastery
-      ├── React.js & Node.js expertise
-      ├── MongoDB & PostgreSQL integration
-      ├── Full-stack application development
-      └── Technical Certifications
+      ├── React & Node.js
+      ├── Database Integration
+      └── Full-stack Projects
 
-2025  🚀 Leadership & Innovation
-      ├── 🎖️ Technical Team Lead @ DDSC
-      ├── 💼 Multiple full-stack projects
-      ├── 📈 Contributing to open-source
-      └── 👥 Mentoring junior developers
+2025  🚀 Technical Leadership
+      ├── 🎖️ Team Lead @ DDSC
+      ├── 💼 Production Projects
+      └── 👥 Mentoring Developers
 ```
 
 </div>
@@ -224,16 +167,16 @@
 <div align="center">
 
 ### 🏫 Education
-- **B.Tech Computer Science & Engineering** - Shri Shivaji Institute (2022-2026)
-- **HSC Science (Informatics Practices)** - Dnyanopasak College (2020-2022)
-- **SSC General Education** - Mahatma Fule Vidyalaya (Completed 2020)
+- **B.Tech CSE** - Shri Shivaji Institute (2022-2026)
+- **HSC Science** - Dnyanopasak College (2020-2022)
+- **SSC** - Mahatma Fule Vidyalaya (2020)
 
-### 🏅 Professional Certifications
+### 🏅 Certifications
 - ✅ Full Stack Web Development
 - ✅ Java Industrial Training
-- ✅ Python Programming Course
-- ✅ AWS Cloud Services (Aspire Program)
-- ✅ NxtWave Programming Certification
+- ✅ Python Programming
+- ✅ AWS Cloud Services
+- ✅ NxtWave Programming
 
 </div>
 
@@ -243,23 +186,21 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" style="pointer-events: none;" draggable="false">
-
-**My Workspace:**
+**My Workspace Setup:**
 - 💻 **OS**: Windows 11 / Ubuntu 22.04
-- 📝 **IDE**: VS Code
+- 📝 **Editor**: VS Code
 - 🐚 **Terminal**: Windows Terminal / Zsh
-- 🎨 **Design**: Figma for prototyping
+- 🎨 **Design**: Figma
 - 🔧 **Tools**: Git, GitHub, NPM, Postman, Vercel
 
-**⚙️ VS Code Extensions:**
+**VS Code Extensions I Use:**
 ```
-✨ Essential Tools:
-├── Prettier (Code Formatter)
+✨ Essential:
+├── Prettier
 ├── ES7+ React Snippets
 ├── Auto Rename Tag
 ├── GitLens
-├── Thunder Client (API Testing)
+├── Thunder Client
 └── Tailwind CSS IntelliSense
 ```
 
@@ -269,9 +210,6 @@
 
 ## 👨‍💻 About My Work
 
-<div align="center">
-
-**🎯 My Profile Object:**
 ```javascript
 const raheman = {
     pronouns: "he/him",
@@ -279,24 +217,20 @@ const raheman = {
     specializations: [
         "Full Stack Development (MERN)",
         "Data Structures & Algorithms",
-        "Web Application Architecture",
+        "Web Architecture",
         "Peer Mentoring"
     ],
     technologies: {
-        frontend: ["React", "TailwindCSS", "Bootstrap", "JavaScript"],
+        frontend: ["React", "TailwindCSS", "Bootstrap"],
         backend: ["Node.js", "Express.js", "REST APIs"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Git", "GitHub", "Vercel", "Netlify", "Postman"]
+        tools: ["Git", "GitHub", "Vercel", "Netlify"]
     },
-    currentFocus: "Building scalable MERN applications & leading tech initiatives",
-    teamContribution: "Mentoring junior developers, leading projects, peer programming",
-    passion: "Clean code, collaboration, and continuous learning 🚀"
+    passion: "Clean code & continuous learning 🚀"
 };
 
-console.log("Let's build something amazing together! 💪");
+console.log("Let's build amazing things! 💪");
 ```
-
-</div>
 
 ---
 
@@ -306,69 +240,55 @@ console.log("Let's build something amazing together! 💪");
 
 ### Let's Collaborate! 🤝
 
-<a href="https://linkedin.com/in/ab-raheman-shaikh">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:ar4868904@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/Arsk86shaikh">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="tel:+918624909682">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ab-raheman-shaikh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar4868904@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arsk86shaikh)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918624909682)
 
-**📍 Location:** Parbhani, Maharashtra, India - 431401  
+**📍 Location:** Parbhani, Maharashtra, India  
 **📞 Phone:** +91 8624909682
 
 </div>
 
 ---
 
-## 🚀 Current Goals & Roadmap
+## 🚀 Current Goals
 
 <div align="center">
 
-**🎯 What's Next:**
-
+**What's Next:**
 - [ ] 🔥 AI-Integrated Web Projects
-- [ ] 📱 React Native Mobile Development
+- [ ] 📱 React Native Development
 - [ ] 🌟 Open Source Contributions
-- [ ] 🏆 Advanced System Design Learning
-- [ ] 👥 Growing DDSC Technical Community
+- [ ] 🏆 System Design Learning
+- [ ] 👥 Growing DDSC Community
 
-**✅ Completed:**
-- [x] Full Stack MERN Mastery
-- [x] Leadership Role @ DDSC
-- [x] Multiple Production Projects
-- [x] Industry Certifications
-- [x] Peer Mentoring Program
+**Completed:**
+- [x] MERN Stack Mastery
+- [x] Technical Leadership
+- [x] Multiple Projects
+- [x] Certifications
+- [x] Mentoring Program
 
 </div>
 
 ---
 
-## 💡 Fun Facts
-
-<div align="center">
+## 💡 Fun Developer Facts
 
 ```
-🎭 DEVELOPER FACTS & EASTER EGGS
-════════════════════════════════════
+🎭 DEVELOPER LIFE
+═════════════════════
 
-💾 I code with: Coffee ☕ + Lo-fi beats 🎵
-🐛 Debug method: Strategic console.log() 😄
-🌙 Dark mode: ALWAYS ON ✔️
-⌨️ Keyboard: Mechanical > Membrane
-📚 Learning style: Build → Learn → Optimize
-🎯 Code philosophy: Clean, Readable, Efficient
+💾 Fuel: Coffee ☕ + Lo-fi beats 🎵
+🐛 Debugging: console.log() 😄
+🌙 Dark Mode: Always ON ✔️
+📚 Learn By: Building Projects
+🎯 Philosophy: Clean Code > Clever Code
 
-🎲 "Why do programmers prefer dark mode?"
-   → Because light attracts bugs! 🐛
+🎲 Why dark mode?
+   → Light attracts bugs! 🐛
 ```
-
-</div>
 
 ---
 
@@ -376,11 +296,11 @@ console.log("Let's build something amazing together! 💪");
 
 ### 💫 *"Code is poetry written for machines, but read by humans."*
 
-**🎊 Thanks for visiting! Let's create amazing things together! 🚀**
+**🎊 Thanks for visiting! Let's create magic together! 🚀**
 
 ---
 
-**🌟 Made with ❤️ and lots of ☕ by [Ab Raheman Shaikh](https://github.com/Arsk86shaikh)**
+**🌟 Made with ❤️ and ☕ by [Ab Raheman Shaikh](https://github.com/Arsk86shaikh)**
 
 *Last Updated: 2025 | Always Learning, Always Growing 📈*
 

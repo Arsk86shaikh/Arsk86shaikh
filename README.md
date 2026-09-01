@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Stack+Expert;Let's+Build+Something+Amazing" alt="Terminal Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Specialist;Tech+Lead+%40+DDSC" alt="Welcome Banner">
   </h1>
 </div>
 
@@ -19,7 +19,7 @@
 
 <!-- Interactive Profile Views Counter -->
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Arsk86shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views" style="pointer-events: none;" draggable="false">
+  <img src="https://komarev.com/ghpvc/?username=Arsk86shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
 
 <br clear="right"/>
@@ -63,22 +63,19 @@
 
 ---
 
-## 🌍 Live GitHub Stats
+## 🌍 GitHub Statistics & Achievements
 
 <div align="center">
-  
-**🔥 GitHub Statistics:**
-  
-[![GitHub followers](https://img.shields.io/github/followers/Arsk86shaikh?style=social)](https://github.com/Arsk86shaikh)
-[![GitHub stars](https://img.shields.io/github/stars/Arsk86shaikh?style=social)](https://github.com/Arsk86shaikh)
 
-**📊 Profile Metrics:**
-
-![Total Views](https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Total+Profile+Views&style=flat-square&color=red)
+### 📊 Quick Stats
+[![GitHub followers](https://img.shields.io/github/followers/Arsk86shaikh?style=social&label=Followers)](https://github.com/Arsk86shaikh)
+[![GitHub stars](https://img.shields.io/github/stars/Arsk86shaikh?style=social&label=Stars)](https://github.com/Arsk86shaikh)
+![Profile Views](https://komarev.com/ghpvc/?username=Arsk86shaikh&label=Profile%20Views&color=0e75b6&style=flat)
 
 ### 🏆 GitHub Achievements
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Arsk86shaikh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsk86shaikh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophy">
+</a>
 
 </div>
 
@@ -158,11 +155,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/Arsk86shaikh)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsk86shaikh&layout=compact&langs_count=8&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsk86shaikh&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800)](https://github.com/Arsk86shaikh)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arsk86shaikh&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arsk86shaikh&theme=tokyonight&cache_seconds=1800)](https://github.com/Arsk86shaikh)
 
 </div>
 

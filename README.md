@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Stack+Expert;Let's+Build+Something+Amazing" alt="Terminal Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=120&lines=Welcome+to+My+Portfolio;Full+Stack+Developer;MERN+Stack+Dev.;Let's+Build+Something+Amazing" alt="Terminal Header" />
   </h1>
 </div>
 

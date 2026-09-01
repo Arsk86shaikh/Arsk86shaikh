@@ -66,7 +66,7 @@
 
 ## 📈 GitHub Stats Cards
 
-<a href="https://github.com/Arsk86shaikh">
+<!-- <a href="https://github.com/Arsk86shaikh">
   <img alt="Raheman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Arsk86shaikh&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 
@@ -76,7 +76,7 @@
 
 <a href="https://github.com/Arsk86shaikh">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Arsk86shaikh&theme=tokyonight" />
-</a>
+</a> -->
 
 ---
 
@@ -115,20 +115,20 @@
 🎉 CAREER TIMELINE
 ═════════════════════════════════════
 
-2022  📚 B.Tech CSE - Final Year
-      └── Shri Shivaji Institute
+2022  📚 B.Tech CSE - FY
+      └── SSIEMS
 
 2023  🌱 MERN Stack Learning
       ├── HTML5, CSS3, JavaScript
       └── First responsive websites
 
-2024  ⚛️ MERN Stack Mastery
+2024  ⚛️ MERN Stack 
       ├── React & Node.js
       ├── Database Integration
       └── Full-stack Projects
 
 2025  🚀 Technical Leadership
-      ├── 🎖️ Team Lead @ DDSC
+      ├── 🎖️ Team Lead @ DDSC Club
       ├── 💼 Production Projects
       └── 👥 Mentoring Developers
 ```
@@ -138,9 +138,9 @@
 ## 🎓 Education & Certifications
 
 ### 🏫 Education
-- **B.Tech CSE** - Shri Shivaji Institute (2022-2026)
-- **HSC Science** - Dnyanopasak College (2020-2022)
-- **SSC** - Mahatma Fule Vidyalaya (2020)
+- **B.Tech CSE** - SSIEMS Parbhani (2022-2026)
+- **HSC Science** - Dnyanopasak College Parbhani (2020-2022)
+- **SSC** - Mahatma Fule Vidyalaya Parbhani (2020)
 
 ### 🏅 Certifications
 - ✅ Full Stack Web Development
